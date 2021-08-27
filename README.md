@@ -14,7 +14,7 @@ Here are a few of my favorite things to geek out on:
 - 🚘 Tesla AI
 - 🎊 Animations
 
-[![Charles's github stats](https://github-readme-stats.vercel.app/api?username=charlesanim499&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Charles's github stats](https://stats-xi-henna.vercel.app/api?username=charlesanim499&theme=onedark&count_private=true&show_icons=true)](https://github.com/charlesanim499/stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesanim499&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-xi-henna.vercel.app/api/top-langs/?username=charlesanim499&layout=compact)](https://github.com/charlesanim499/stats)
 
